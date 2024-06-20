@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Jatin Srivastava</h1>
-<h3 align="center">I am a 2nd Year Undergrad at AKGEC</h3>
+<h3 align="center">I am a 3rd Year at AKGEC</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jatinsri25&label=Profile%20views&color=0e75b6&style=flat" alt="jatinsri25" /> </p>
 
